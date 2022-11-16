@@ -1,0 +1,12 @@
+C:\Users\Alumno\AppData\Local\Temporary Projects\Form Proyecto Cantina\bin\Debug\Form Proyecto Cantina.exe
+C:\Users\Alumno\AppData\Local\Temporary Projects\Form Proyecto Cantina\bin\Debug\Form Proyecto Cantina.pdb
+C:\Users\Alumno\AppData\Local\Temporary Projects\Form Proyecto Cantina\bin\Debug\Form Proyecto Cantina.xml
+C:\Users\Alumno\AppData\Local\Temporary Projects\Form Proyecto Cantina\obj\x86\Debug\Form_Proyecto_Cantina.MenuCompras.resources
+C:\Users\Alumno\AppData\Local\Temporary Projects\Form Proyecto Cantina\obj\x86\Debug\Form_Proyecto_Cantina.Resources.resources
+C:\Users\Alumno\AppData\Local\Temporary Projects\Form Proyecto Cantina\obj\x86\Debug\Form Proyecto Cantina.vbproj.GenerateResource.Cache
+C:\Users\Alumno\AppData\Local\Temporary Projects\Form Proyecto Cantina\obj\x86\Debug\Form Proyecto Cantina.exe
+C:\Users\Alumno\AppData\Local\Temporary Projects\Form Proyecto Cantina\obj\x86\Debug\Form Proyecto Cantina.xml
+C:\Users\Alumno\AppData\Local\Temporary Projects\Form Proyecto Cantina\obj\x86\Debug\Form Proyecto Cantina.pdb
+D:\Di Lacio\Form Proyecto Cantina\Form Proyecto Cantina\obj\x86\Debug\Form Proyecto Cantina.exe
+D:\Di Lacio\Form Proyecto Cantina\Form Proyecto Cantina\obj\x86\Debug\Form Proyecto Cantina.xml
+D:\Di Lacio\Form Proyecto Cantina\Form Proyecto Cantina\obj\x86\Debug\Form Proyecto Cantina.pdb
