@@ -1,9 +1,0 @@
-F:\PantallasCantina\Pantalla menu principal\Pantalla menu principal\bin\Debug\Pantalla menu principal.exe
-F:\PantallasCantina\Pantalla menu principal\Pantalla menu principal\bin\Debug\Pantalla menu principal.pdb
-F:\PantallasCantina\Pantalla menu principal\Pantalla menu principal\bin\Debug\Pantalla menu principal.xml
-F:\PantallasCantina\Pantalla menu principal\Pantalla menu principal\obj\x86\Debug\Pantalla_menu_principal.Form1.resources
-F:\PantallasCantina\Pantalla menu principal\Pantalla menu principal\obj\x86\Debug\Pantalla_menu_principal.Resources.resources
-F:\PantallasCantina\Pantalla menu principal\Pantalla menu principal\obj\x86\Debug\Pantalla menu principal.vbproj.GenerateResource.Cache
-F:\PantallasCantina\Pantalla menu principal\Pantalla menu principal\obj\x86\Debug\Pantalla menu principal.exe
-F:\PantallasCantina\Pantalla menu principal\Pantalla menu principal\obj\x86\Debug\Pantalla menu principal.xml
-F:\PantallasCantina\Pantalla menu principal\Pantalla menu principal\obj\x86\Debug\Pantalla menu principal.pdb
