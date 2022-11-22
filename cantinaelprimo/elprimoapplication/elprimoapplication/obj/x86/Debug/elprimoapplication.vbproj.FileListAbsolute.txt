@@ -1,9 +1,0 @@
-D:\cantinaelprimo\elprimoapplication\elprimoapplication\bin\Debug\elprimoapplication.exe
-D:\cantinaelprimo\elprimoapplication\elprimoapplication\bin\Debug\elprimoapplication.pdb
-D:\cantinaelprimo\elprimoapplication\elprimoapplication\bin\Debug\elprimoapplication.xml
-D:\cantinaelprimo\elprimoapplication\elprimoapplication\obj\x86\Debug\elprimoapplication.Resources.resources
-D:\cantinaelprimo\elprimoapplication\elprimoapplication\obj\x86\Debug\elprimoapplication.vbproj.GenerateResource.Cache
-D:\cantinaelprimo\elprimoapplication\elprimoapplication\obj\x86\Debug\elprimoapplication.exe
-D:\cantinaelprimo\elprimoapplication\elprimoapplication\obj\x86\Debug\elprimoapplication.xml
-D:\cantinaelprimo\elprimoapplication\elprimoapplication\obj\x86\Debug\elprimoapplication.pdb
-D:\cantinaelprimo\elprimoapplication\elprimoapplication\obj\x86\Debug\elprimoapplication.Form1.resources
